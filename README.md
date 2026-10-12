@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/josef-ruddvic-irasga-219207401/">Cybersecurity Student/a>, 
+<h1>Hi, I'm Josef! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/josef-ruddvic-irasga-219207401/">and a Cybersecurity Student </a> </h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
